@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NBA",Orlando vs Atlanta
+#EXTINF:-1 tvg-logo="" group-title="NBA",Chicago Bulls vs Miami Heat
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/153.m3u8
+https://live.webcastserver.online/hdstream/embed/166.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NBA",Golden State vs Memphis
+#EXTINF:-1 tvg-logo="" group-title="NBA", Sacramento Kings vs Dallas Mavericks 
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/159.m3u8
+https://live.webcastserver.online/hdstream/embed/144.m3u8
